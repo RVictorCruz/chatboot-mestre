@@ -10,7 +10,7 @@ O projeto **Chatboot Mestre** é uma solução baseada no [Venom-Bot](https://gi
 ## Instalação
 1. Clone o repositório ou baixe os arquivos do projeto:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/RVictorCruz/chatboot-mestre.git
    cd chatboot-mestre
    ```
 
